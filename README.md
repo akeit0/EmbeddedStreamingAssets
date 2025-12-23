@@ -3,7 +3,12 @@
 
 [![license](https://img.shields.io/badge/LICENSE-MIT-green.svg)](LICENSE)
 
-unityroomなどWeb(GL) ビルドで StreamingAssets フォルダをアップロードできない環境のために、StreamingAssets フォルダの内容をProject内に保存し実行時にメモリ上に展開する Unity パッケージです。
+
+> [!NOTE]
+> 2025/12/24
+> unityroom公式でStreamingAssets対応されました。
+
+~~ unityroomなど~~ Web(GL) ビルドで StreamingAssets フォルダをアップロードできない環境のために、StreamingAssets フォルダの内容をProject内に保存し実行時にメモリ上に展開する Unity パッケージです。
 
 インスパイア元は[StreamingAssetsInjector](https://github.com/KurisuJuha/StreamingAssetsInjector)です。
 
